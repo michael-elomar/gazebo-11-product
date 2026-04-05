@@ -14,4 +14,5 @@ sudo apt install \
 	libavfilter-dev \
 	libpostproc-dev \
 	libogre-next-dev \
-	libogre-1.9-dev
+	libogre-1.9-dev \
+	libzmq3-dev
