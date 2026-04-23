@@ -1,6 +1,6 @@
 #! /usr/bin/env sh
 
-sudo apt install \
+sudo apt install -y \
 	libprotoc-dev \
     libprotobuf-dev \
 	libboost-all-dev \
@@ -15,4 +15,5 @@ sudo apt install \
 	libpostproc-dev \
 	libogre-next-dev \
 	libogre-1.9-dev \
-	libzmq3-dev
+	libzmq3-dev \
+	libassimp-dev
